@@ -1,6 +1,11 @@
 # Speech Synthesis Paper
 list of speech synthesis papers.
 
+## TTS Frontend
+- [A unified sequence-to-sequence front-end model for Mandarin text-to-speech synthesis](https://arxiv.org/pdf/1911.04111.pdf) (ICASSP 2020)
+- [A hybrid text normalization system using multi-head self-attention for mandarin](https://arxiv.org/pdf/1911.04128.pdf) (ICASSP 2020)
+
+
 ## Acoustic Model
 ### Autoregressive Model
 - Tacotron V1: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (Interspeech 2017)
