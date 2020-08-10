@@ -1,5 +1,5 @@
 # Speech Synthesis Paper
-list of speech synthesis papers or papers related to speech processing.
+list of speech synthesis papers and papers related to speech processing.
 
 ## Acoustic Model
 ### Autoregressive Model
