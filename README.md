@@ -1,5 +1,5 @@
 # Speech Synthesis Paper
-list of speech synthesis papers. Welcome to recommend awesome papers😀!
+List of speech synthesis papers. Welcome to recommend awesome papers😀
 
 ## TTS Frontend
 - [A unified sequence-to-sequence front-end model for Mandarin text-to-speech synthesis](https://arxiv.org/pdf/1911.04111.pdf) (ICASSP 2020)
