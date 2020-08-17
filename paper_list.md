@@ -1,5 +1,5 @@
-# Speech Synthesis Paper
-List of speech synthesis papers. Welcome to recommend awesome papers😀
+# Paper List
+List of papers which have been read.
 
 ## TTS Frontend
 - [Pre-trained Text Representations for Improving Front-End Text Processing in Mandarin Text-to-Speech Synthesis](https://pdfs.semanticscholar.org/6abc/7dac0bdc50735b6d12f96400f59b5f084759.pdf) (Interspeech 2019)
@@ -120,3 +120,12 @@ List of speech synthesis papers. Welcome to recommend awesome papers😀
 
 ## Speech Enhancement
 - TasNet: [TasNet: time-domain audio separation network for real-time, single-channel speech separation](https://arxiv.org/abs/1711.00541) (ICASSP 2018)
+
+
+## Natural Language Processing
+### Non-autoregressive Translation Model
+- [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454) (ACL 2020)
+- [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/abs/1802.06901) (EMNLP 2018)
+- [Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1711.02281v1) (ICLR 2018)
+- [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/abs/1902.10245) (AAAI 2019)
+- [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP 2019)
