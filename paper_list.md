@@ -129,3 +129,11 @@ List of papers which have been read.
 - [Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1711.02281v1) (ICLR 2018)
 - [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/abs/1902.10245) (AAAI 2019)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP 2019)
+
+## VAE/GAN
+### VAE
+- VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+
+### GAN
+- Style-GAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
+- Cycle-GAN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
