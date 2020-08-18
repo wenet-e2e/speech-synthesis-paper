@@ -1,5 +1,5 @@
 # Paper List
-List of papers which have been read.
+List of papers which I have been read.
 
 ## TTS Frontend
 - [Pre-trained Text Representations for Improving Front-End Text Processing in Mandarin Text-to-Speech Synthesis](https://pdfs.semanticscholar.org/6abc/7dac0bdc50735b6d12f96400f59b5f084759.pdf) (Interspeech 2019)
