@@ -145,3 +145,12 @@ List of papers which I have read.
 
 ## Searching Accelerate
 - ScaNN: [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
+
+
+## Sequence Modeling
+- LSTM: [Long Short-term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) (1997)
+- GRU: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078v3) (EMNLP 2014)
+- TCN: [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271) (2018)
+- Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (2017)
+- Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL 2019)
+- Reformer: [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR 2020)
