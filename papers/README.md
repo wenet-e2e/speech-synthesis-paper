@@ -143,6 +143,9 @@ List of papers which I have read.
 
 ### GAN
 - GAN: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (NIPS 2014)
+- Condition-GAN: [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) (2014)
+- Info-GAN: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) (2016)
+- SeqGAN: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) (AAAI 2017)
 - Cycle-GAN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) (ICCV 2017)
 - Star-GAN: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) (CVPR 2018)
 - BigGAN: [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) (ICLR 2019)
