@@ -1,5 +1,5 @@
 # Paper List
-List of papers which I have read.
+List of papers not just about speech synthesis.
 
 ## TTS Frontend
 - [Pre-trained Text Representations for Improving Front-End Text Processing in Mandarin Text-to-Speech Synthesis](https://pdfs.semanticscholar.org/6abc/7dac0bdc50735b6d12f96400f59b5f084759.pdf) (Interspeech 2019)
@@ -114,18 +114,30 @@ List of papers which I have read.
 - [Speech-to-Singing Conversion based on Boundary Equilibrium GAN](https://arxiv.org/abs/2005.13835) (Interspeech 2020)
 
 
-## Speech Pretrained Model
+## Speech Processing Related
+### Speech Pretrained Model
 - Audio-Word2Vec: [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](https://arxiv.org/pdf/1603.00982.pdf) (2016)
 - SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
 
-
-## Speech Separation
+### Speech Separation
 - TasNet: [TasNet: time-domain audio separation network for real-time, single-channel speech separation](https://arxiv.org/abs/1711.00541) (ICASSP 2018)
 - Conv-TasNet: [Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation](https://arxiv.org/abs/1809.07454)
 
+### Speaker Verification
+- DeepSpeaker: [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf) (2017)
+- GE2E Loss: [Generalized End-to-End Loss for Speaker Verification](https://arxiv.org/abs/1710.10467) (ICASSP 2018)
+
 
 ## Natural Language Processing
+### Sequence Modeling
+- LSTM: [Long Short-term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) (1997)
+- GRU: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078v3) (EMNLP 2014)
+- TCN: [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271) (2018)
+- Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
+- Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL 2019)
+- Reformer: [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR 2020)
+
 ### Non-autoregressive Translation Model
 - [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454) (ACL 2020)
 - [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/abs/1802.06901) (EMNLP 2018)
@@ -152,19 +164,6 @@ List of papers which I have read.
 - Style-GAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (CVPR 2019)
 
 
-## Search Accelerating
-- ScaNN: [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
-
-
-## Sequence Modeling
-- LSTM: [Long Short-term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) (1997)
-- GRU: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078v3) (EMNLP 2014)
-- TCN: [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271) (2018)
-- Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
-- Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL 2019)
-- Reformer: [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR 2020)
-
-
-## Speaker Verification
-- DeepSpeaker: [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf) (2017)
-- GE2E Loss: [Generalized End-to-End Loss for Speaker Verification](https://arxiv.org/abs/1710.10467) (ICASSP 2018)
+## Others
+- ScaNN (search accelerating): [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
+- (memory management): [Efficient Memory Management for Deep Neural Net Inference](https://arxiv.org/abs/2001.03288) (2020)
