@@ -136,14 +136,20 @@ List of papers which I have read.
 
 ## VAE/GAN
 ### VAE
-- VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+- VAE: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) (ICLR 2014)
+- GM-VAE: [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](https://arxiv.org/abs/1611.02648) (ICLR 2017)
+- VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (NIPS 2017)
+- VQ-VAE 2: [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) (NeurIPS 2019)
 
 ### GAN
-- Style-GAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
-- Cycle-GAN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+- GAN: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (NIPS 2014)
+- Cycle-GAN: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) (ICCV 2017)
+- Star-GAN: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) (CVPR 2018)
+- BigGAN: [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) (ICLR 2019)
+- Style-GAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (CVPR 2019)
 
 
-## Searching Accelerate
+## Search Accelerating
 - ScaNN: [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
 
 
