@@ -154,3 +154,8 @@ List of papers which I have read.
 - Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
 - Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL 2019)
 - Reformer: [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR 2020)
+
+
+## Speaker Verification
+- DeepSpeaker: [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf) (2017)
+- GE2E Loss: [Generalized End-to-End Loss for Speaker Verification](https://arxiv.org/abs/1710.10467) (ICASSP 2018)
