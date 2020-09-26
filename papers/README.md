@@ -139,6 +139,9 @@ List of papers not just about speech synthesis.
 - DeepSpeaker: [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf) (2017)
 - GE2E Loss: [Generalized End-to-End Loss for Speaker Verification](https://arxiv.org/abs/1710.10467) (ICASSP 2018)
 
+### Speech Representation Learning
+- [Unsupervised speech representation learning using WaveNet autoencoders](https://arxiv.org/abs/1901.08810) (2019)
+
 
 ## Natural Language Processing
 ### Sequence Modeling
