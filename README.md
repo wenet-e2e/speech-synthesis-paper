@@ -1,5 +1,5 @@
 # Speech Synthesis Paper
-List of speech synthesis papers ([more papers](./papers/README.md)). Welcome to recommend awesome papers😀.
+List of speech synthesis papers (-> [more papers](./papers/README.md) <-). Welcome to recommend awesome papers😀.
 
 *What is the meaning of '<span class="star" style="color: red">&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which number of citations is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of Deep-Learning-based TTS model ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
 
@@ -86,9 +86,9 @@ List of speech synthesis papers ([more papers](./papers/README.md)). Welcome to 
 
 - WaveNet<sup><span class="star" style="color: red">&#x2605;</span></sup>: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) (2016)
 - WaveRNN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435) (ICML 2018)
+- WaveGAN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (ICLR 2019)
 - LPCNet<sup><span class="star" style="color: red">&#x2605;</span></sup>: [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://arxiv.org/abs/1810.11846) (ICASSP 2019)
 - GAN-TTS: [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf) (2019)
-- WaveGAN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (2018)
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 
 <h3 id="32">Non-Autoregressive Model</h3>
