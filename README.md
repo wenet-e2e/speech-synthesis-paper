@@ -1,5 +1,5 @@
 # Speech Synthesis Paper
-List of speech synthesis papers. Welcome to recommend awesome papers😀 ([more papers](./papers/README.md))
+List of speech synthesis papers ([more papers](./papers/README.md)). Welcome to recommend awesome papers😀.
 
 <h2>Content</h2>
 
