@@ -1,5 +1,6 @@
 # Paper List
-List of papers not just about speech synthesis.
+List of papers not just about speech synthesis 😀.
+
 
 <h2>Content</h2>
 

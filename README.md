@@ -1,5 +1,14 @@
 # Speech Synthesis Paper
-List of speech synthesis papers (-> [more papers](./papers/README.md) <-). Welcome to recommend awesome papers😀.
+List of speech synthesis papers (-> [more papers](./papers/README.md) <-). Welcome to recommend more awesome papers 😀.
+
+Repositories for collecting awesome speech paper:
+
+- [awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) (from [ponyzhang](https://github.com/zzw922cn))
+- [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) (from [Fabian-Robert Stöter](https://github.com/faroit))
+- [TTS-papers](https://github.com/erogol/TTS-papers) (from [Eren Gölge](https://github.com/erogol))
+- [awesome-speech-enhancement](https://github.com/Wenzhe-Liu/awesome-speech-enhancement) (from [Vincent Liu](https://github.com/Wenzhe-Liu))
+- [speech-recognition-papers](https://github.com/xingchensong/speech-recognition-papers) (from [Xingchen Song](https://github.com/xingchensong))
+- [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) (from [Seung-won Park](https://github.com/seungwonpark))
 
 *What is the meaning of '<span class="star" style="color: red">&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which number of citations is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of Deep-Learning-based TTS model ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
 
