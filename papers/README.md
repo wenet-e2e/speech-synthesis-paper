@@ -30,7 +30,8 @@ List of papers not just about speech synthesis.
 * [Natural Language Processing](#8)
     * [Sequence Modeling](#81)
     * [Non-autoregressive Translation Model](#82)
-    * [Neural Machine Reading Comprehension](#83)
+    * [Speech2Speech Translation Model](#83)
+    * [Neural Machine Reading Comprehension](#84)
 * [VAE & GAN](#9)
     * [VAE](#91)
     * [GAN](#92)
@@ -234,7 +235,12 @@ List of papers not just about speech synthesis.
 - [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/abs/1902.10245) (AAAI 2019)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP 2019)
 
-<h3 id="83">Neural Machine Reading Comprehension</h3>
+<h3 id="83">Speech2Speech Translation Model</h3>
+
+- Awesome Paper List: [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation)
+- [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/abs/1904.06037) (InterSpeech 2020)
+
+<h3 id="84">Neural Machine Reading Comprehension</h3>
 
 - Review 2019: [Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118) (2019)
 - Review 2020: [A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880.pdf) (2019)
