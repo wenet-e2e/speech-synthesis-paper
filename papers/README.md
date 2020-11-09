@@ -6,12 +6,12 @@ List of papers not just about speech synthesis.
 * [TTS Frontend](#1)
 * [Acoustic Model](#2)
     * [Autoregressive Model](#21)
-    * [Non-autoregressive Model](#22)
+    * [Non-Autoregressive Model](#22)
     * [Alignment Study](#23)
     * [Data Efficiency](#24)
 * [Vocoder](#3)
     * [Autoregressive Model](#31)
-    * [Non-autoregressive Model](#32)
+    * [Non-Autoregressive Model](#32)
 * [TTS towards Stylization](#4)
     * [Expressive TTS](#41)
     * [MultiSpeaker TTS](#42)
@@ -60,7 +60,7 @@ List of papers not just about speech synthesis.
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
 - GraphSpeech: [GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis](https://arxiv.org/abs/2010.12423) (2020)
 
-<h3 id="22">Non-autoregressive Model</h3>
+<h3 id="22">Non-Autoregressive Model</h3>
 
 - ParaNet: [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf) (ICML 2020)
 - FastSpeech: [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
@@ -101,7 +101,7 @@ List of papers not just about speech synthesis.
 - WaveGAN: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (2018)
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 
-<h3 id="32">Non-autoregressive Model</h3>
+<h3 id="32">Non-Autoregressive Model</h3>
 
 - Parallel-WaveNet: [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://arxiv.org/pdf/1711.10433.pdf) (2017)
 - WaveGlow: [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002) (2018)
