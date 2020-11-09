@@ -1,7 +1,7 @@
 # Speech Synthesis Paper
 List of speech synthesis papers ([more papers](./papers/README.md)). Welcome to recommend awesome papers😀.
 
-*What is the meaning of '<span class="star" style="color: red">&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which citation is over 50 in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`. Beginner can read these paper first to get basic knowledge of deep learning in TTS ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
+*What is the meaning of '<span class="star" color=red>&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which citation is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of TTS based Deep-Learning ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
 
 <h2>Content</h2>
 
