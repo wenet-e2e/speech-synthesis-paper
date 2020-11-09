@@ -30,9 +30,10 @@ List of papers not just about speech synthesis 😀.
     * [Speech Representation Learning](#74)
 * [Natural Language Processing](#8)
     * [Sequence Modeling](#81)
-    * [Non-autoregressive Translation Model](#82)
-    * [Speech2Speech Translation Model](#83)
-    * [Neural Machine Reading Comprehension](#84)
+    * [Pretrained Model](#82)
+    * [Non-autoregressive Translation Model](#83)
+    * [Speech2Speech Translation Model](#84)
+    * [Neural Machine Reading Comprehension](#85)
 * [VAE & GAN](#9)
     * [VAE](#91)
     * [GAN](#92)
@@ -228,7 +229,14 @@ List of papers not just about speech synthesis 😀.
 - Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL 2019)
 - Reformer: [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR 2020)
 
-<h3 id="82">Non-autoregressive Translation Model</h3>
+<h3 id="82">Pretrained Model</h3>
+
+- Awesome Repositories: [transformers](https://github.com/huggingface/transformers)
+- BERT: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (NAACL 2019)
+- XLNET: [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (NeurIPS 2019)
+- ALBERT: [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR 2020)
+
+<h3 id="83">Non-autoregressive Translation Model</h3>
 
 - [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454) (ACL 2020)
 - [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/abs/1802.06901) (EMNLP 2018)
@@ -236,12 +244,12 @@ List of papers not just about speech synthesis 😀.
 - [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/abs/1902.10245) (AAAI 2019)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP 2019)
 
-<h3 id="83">Speech2Speech Translation Model</h3>
+<h3 id="84">Speech2Speech Translation Model</h3>
 
 - Awesome Paper List: [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation)
 - [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/abs/1904.06037) (InterSpeech 2020)
 
-<h3 id="84">Neural Machine Reading Comprehension</h3>
+<h3 id="85">Neural Machine Reading Comprehension</h3>
 
 - Review 2019: [Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118) (2019)
 - Review 2020: [A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880.pdf) (2019)
