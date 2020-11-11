@@ -258,6 +258,7 @@ List of papers not just about speech synthesis 😀.
 - Review 2019: [Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118) (2019)
 - Review 2020: [A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/pdf/2006.11880.pdf) (2019)
 - NMRC first: [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340) (NIPS 2015)
+- RACE dataset: [RACE: Large-scale ReAding Comprehension Dataset From Examinations](https://www.aclweb.org/anthology/D17-1082.pdf) (EMNLP 2017)
 - Cloze test: [Large-scale Cloze Test Dataset Created by Teachers](https://arxiv.org/abs/1711.03225) (EMNLP 2018)
 - HuggingFace: [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771) (2019)
 
