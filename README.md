@@ -58,7 +58,6 @@ Repositories for collecting awesome speech paper:
 - DurIAN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 - Flowtron (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
-- GraphSpeech: [GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis](https://arxiv.org/abs/2010.12423) (2020)
 - DeviceTTS: [DeviceTTS: A Small-Footprint, Fast, Stable Network for On-Device Text-to-Speech](https://arxiv.org/abs/2010.15311) (2020-10)
 
 <h3 id="22">Non-Autoregressive Model</h3>
@@ -124,12 +123,15 @@ Repositories for collecting awesome speech paper:
 - GST-Tacotron<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis](https://arxiv.org/abs/1803.09017) (ICML 2018)
 - [Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis](https://arxiv.org/pdf/1808.01410.pdf) (2018)
 - GMVAE-Tacotron2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Hierarchical Generative Modeling for Controllable Speech Synthesis](https://arxiv.org/abs/1810.07217) (ICLR 2019)
+- BERT-TTS: [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307) (2019)
 - (Multi-style Decouple): [Multi-Reference Neural TTS Stylization with Adversarial Cycle Consistency](https://arxiv.org/abs/1910.11958) (2019)
 - (Multi-style Decouple): [Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis](https://arxiv.org/abs/1904.02373) (InterSpeech 2019)
 - Mellotron: [Mellotron: Multispeaker expressive voice synthesis by conditioning on rhythm, pitch and global style tokens](https://arxiv.org/abs/1910.11997) (2019)
 - Flowtron (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
 - (local style): [Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis](https://arxiv.org/abs/2002.03785) (ICASSP 2020)
 - [Controllable Neural Prosody Synthesis](https://arxiv.org/pdf/2008.03388.pdf) (Interspeech 2020)
+- GraphSpeech: [GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis](https://arxiv.org/abs/2010.12423) (2020-10)
+- BERT-TTS: [Improving Prosody Modelling with Cross-Utterance BERT Embeddings for End-to-end Speech Synthesis](https://arxiv.org/abs/2011.05161) (2020-11)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
