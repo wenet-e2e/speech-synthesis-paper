@@ -191,6 +191,7 @@ List of papers not just about speech synthesis 😀.
 - XiaoIce Sing: [XiaoiceSing: A High-Quality and Integrated Singing Voice Synthesis System](https://arxiv.org/abs/2006.06261) (2020)
 - HiFiSinger: [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) (2019)
 - [Sequence-to-sequence Singing Voice Synthesis with Perceptual Entropy Loss](https://arxiv.org/abs/2010.12024) (2020)
+- Learn2Sing: [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) (2020-11)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
