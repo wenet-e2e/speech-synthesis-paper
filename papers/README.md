@@ -256,6 +256,7 @@ List of papers not just about speech synthesis 😀.
 
 - Awesome Paper List: [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation)
 - [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/abs/1904.06037) (InterSpeech 2020)
+- NeurST: [NeurST: Neural Speech Translation Toolkit](https://arxiv.org/pdf/2012.10018.pdf) (2020-12)
 
 <h3 id="85">Neural Machine Reading Comprehension</h3>
 
