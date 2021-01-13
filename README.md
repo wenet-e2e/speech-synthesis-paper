@@ -55,10 +55,11 @@ Repositories for collecting awesome speech paper:
 - Deep Voice V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947) (NeurIPS 2017)
 - Deep Voice V3<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
 - Transformer-TTS<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895) (AAAI 2019)
-- [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
 - DurIAN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
+- [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
 - Flowtron (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
+- RobuTrans (towards robust): [RobuTrans: A Robust Transformer-Based Text-to-Speech Model](https://ojs.aaai.org//index.php/AAAI/article/view/6337) (AAAI 2020)
 - DeviceTTS: [DeviceTTS: A Small-Footprint, Fast, Stable Network for On-Device Text-to-Speech](https://arxiv.org/abs/2010.15311) (2020-10)
 
 <h3 id="22">Non-Autoregressive Model</h3>
