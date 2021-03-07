@@ -106,6 +106,7 @@ Repositories for collecting awesome speech paper:
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) (Interspeech 2019)
 - GAN-TTS: [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf) (2019)
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
+- [Handling Background Noise in Neural Speech Generation](https://arxiv.org/abs/2102.11906) (ACSSC 2020)
 
 <h3 id="32">Non-Autoregressive Model</h3>
 
@@ -186,6 +187,7 @@ Repositories for collecting awesome speech paper:
 - StarGAN-VC: [StarGAN-VC: non-parallel many-to-many Voice Conversion Using Star Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639535&tag=1) (2018)
 - CycleGAN-VC V2: [CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion](https://arxiv.org/abs/1904.04631) (2019)
 - CycleGAN-VC V3: [CycleGAN-VC3: Examining and Improving CycleGAN-VCs for Mel-spectrogram Conversion](https://arxiv.org/abs/2010.11672) (2020)
+- MaskCycleGAN-VC: [MaskCycleGAN-VC: Learning Non-parallel Voice Conversion with Filling in Frames](https://arxiv.org/abs/2102.12841) (ICASSP 2021)
 
 
 <h2 id="6">Singing</h2>
