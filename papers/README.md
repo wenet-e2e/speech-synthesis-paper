@@ -13,6 +13,7 @@ List of papers not just about speech synthesis 😀.
 * [Vocoder](#3)
     * [Autoregressive Model](#31)
     * [Non-Autoregressive Model](#32)
+    * [Others](#33)
 * [TTS towards Stylization](#4)
     * [Expressive TTS](#41)
     * [MultiSpeaker TTS](#42)
@@ -124,7 +125,12 @@ List of papers not just about speech synthesis 😀.
 - HiFi-GAN: [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/pdf/2010.05646.pdf) (NeurIPS 2020)
 - Parallel-WaveGAN (New): [Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators](https://arxiv.org/abs/2010.14151) (2020-10)
 - [Improved parallel WaveGAN vocoder with perceptually weighted spectrogram loss](https://arxiv.org/abs/2101.07412) (SLT 2021)
+
+<h3 id="33">Others</h3>
+
+- Universal MelGAN: [Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains](https://arxiv.org/abs/2011.09631) (2020)
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
+- [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
 
 
 <h2 id="4">TTS towards Stylization</h2>
