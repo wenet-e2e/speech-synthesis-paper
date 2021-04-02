@@ -162,6 +162,7 @@ Repositories for collecting awesome speech paper:
 - MultiSpeech: [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://arxiv.org/abs/2006.04664) (2020)
 - SC-WaveRNN: [Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions](https://arxiv.org/pdf/2008.05289.pdf) (Interspeech 2020)
 - MultiSpeaker Dataset: [AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines](https://arxiv.org/abs/2010.11567) (2020)
+- Life-long learning for multi-speaker TTS: [Continual Speaker Adaptation for Text-to-Speech Synthesis](https://arxiv.org/abs/2103.14512) (2021)
 
 
 <h2 id="5">Voice Conversion</h2>
