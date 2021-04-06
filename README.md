@@ -78,6 +78,7 @@ Repositories for collecting awesome speech paper:
 - Parallel Tacotron: [Parallel Tacotron: Non-Autoregressive and Controllable TTS](https://arxiv.org/abs/2010.11439) (2020)
 - LightSpeech: [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) (ICASSP 2021)
 - Parallel Tacotron 2: [Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling](https://arxiv.org/pdf/2103.14574.pdf) (2021)
+- Diff-TTS: Diff-TTS: A Denoising Diffusion Model for Text-to-Speech](https://arxiv.org/abs/2104.01409) (2021)
 
 <h3 id="23">Alignment Study</h3>
 
