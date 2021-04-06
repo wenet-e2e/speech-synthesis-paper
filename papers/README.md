@@ -230,6 +230,7 @@ List of papers not just about speech synthesis 😀.
 - Audio-Word2Vec: [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](https://arxiv.org/pdf/1603.00982.pdf) (2016)
 - SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
+- DDSP: [DDSP: Differentiable Digital Signal Processing](https://arxiv.org/abs/2001.04643) (ICLR 2020)
 
 <h3 id="72">Speech Separation</h3>
 
