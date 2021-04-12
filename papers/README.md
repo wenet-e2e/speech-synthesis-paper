@@ -130,9 +130,11 @@ List of papers not just about speech synthesis 😀.
 
 <h3 id="33">Others</h3>
 
+- (Source-filter model based): [Neural source-filter waveform models for statistical parametric speech synthesis](https://arxiv.org/abs/1904.12088) (TASLP 2019)
+- NHV: [Neural Homomorphic Vocoder](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3188.pdf) (Interspeech 2020)
 - Universal MelGAN: [Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains](https://arxiv.org/abs/2011.09631) (2020)
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
-- [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
+- (Comparison of discriminator): [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
 
 
 <h2 id="4">TTS towards Stylization</h2>
