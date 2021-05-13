@@ -29,6 +29,7 @@ List of papers not just about speech synthesis 😀.
     * [Speech Separation](#72)
     * [Speaker Verification](#73)
     * [Speech Representation Learning](#74)
+    * [Tools](#75)
 * [Natural Language Processing](#8)
     * [Sequence Modeling](#81)
     * [Pretrained Model](#82)
@@ -250,6 +251,11 @@ List of papers not just about speech synthesis 😀.
 <h3 id="74">Speech Representation Learning</h3>
 
 - [Unsupervised speech representation learning using WaveNet autoencoders](https://arxiv.org/abs/1901.08810) (2019)
+
+<h3 id="75">Tools</h3>
+
+- ESPnet: [ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/abs/1804.00015) (2018)
+- SpeechBrain: [speechbrain](https://github.com/speechbrain/speechbrain)
 
 
 <h2 id="8">Natural Language Processing</h2>
