@@ -159,6 +159,7 @@ List of papers not just about speech synthesis 😀.
 - (Phone Level Prosody Modelling): [Mixture Density Network for Phone-Level Prosody Modelling in Speech Synthesis](https://arxiv.org/abs/2102.00851) (ICASSP 2021)
 - PeriodNet: [PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components](https://arxiv.org/abs/2102.07786) (ICASSP 2021)
 - [Towards Multi-Scale Style Control for Expressive Speech Synthesis](https://arxiv.org/abs/2104.03521) (2021-04)
+- [Learning Robust Latent Representations for Controllable Speech Synthesis](https://arxiv.org/abs/2105.04458) (2021-05)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
