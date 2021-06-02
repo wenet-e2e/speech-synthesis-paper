@@ -131,6 +131,7 @@ Repositories for collecting awesome speech paper:
 - (Source-filter model based): [Neural source-filter waveform models for statistical parametric speech synthesis](https://arxiv.org/abs/1904.12088) (TASLP 2019)
 - NHV: [Neural Homomorphic Vocoder](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3188.pdf) (Interspeech 2020)
 - Binaural Speech Synthesis: [Neural Synthesis of Binaural Speech From Mono Audio](https://openreview.net/forum?id=uAX8q61EVRu) (ICLR 2021)
+- Checkerboard artifacts in neural vocoder: [Upsampling artifacts in neural audio synthesis](https://arxiv.org/abs/2010.14356) (ICASSP 2021)
 - Universal MelGAN: [Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains](https://arxiv.org/abs/2011.09631) (2020)
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
 - (Comparison of discriminator): [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
