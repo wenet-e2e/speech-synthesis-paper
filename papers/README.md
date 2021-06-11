@@ -176,6 +176,7 @@ List of papers not just about speech synthesis 😀.
 - SC-WaveRNN: [Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions](https://arxiv.org/pdf/2008.05289.pdf) (Interspeech 2020)
 - MultiSpeaker Dataset: [AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines](https://arxiv.org/abs/2010.11567) (2020)
 - Life-long learning for multi-speaker TTS: [Continual Speaker Adaptation for Text-to-Speech Synthesis](https://arxiv.org/abs/2103.14512) (2021-03)
+- [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation](https://arxiv.org/pdf/2106.03153.pdf) (ICML 2021)
 
 
 <h2 id="5">Voice Conversion</h2>
@@ -260,6 +261,7 @@ List of papers not just about speech synthesis 😀.
 
 - ESPnet: [ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/abs/1804.00015) (2018)
 - SpeechBrain: [speechbrain](https://github.com/speechbrain/speechbrain)
+- SpeechBrain Paper: [SpeechBrain: A General-Purpose Speech Toolkit](https://arxiv.org/abs/2106.04624)
 
 
 <h2 id="8">Natural Language Processing</h2>
