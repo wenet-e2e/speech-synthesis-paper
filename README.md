@@ -10,6 +10,7 @@ Repositories for collecting awesome speech paper:
 - [speech-recognition-papers](https://github.com/xingchensong/speech-recognition-papers) (from [Xingchen Song](https://github.com/xingchensong))
 - [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) (from [Seung-won Park](https://github.com/seungwonpark))
 - [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation) (from [dqqcasia](https://github.com/dqqcasia))
+- [A Survey on Neural Speech Synthesis](https://github.com/tts-tutorial/survey) (from [tts-tutorial](https://github.com/tts-tutorial))
 
 *What is the meaning of '<span class="star" style="color: red">&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which number of citations is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of Deep-Learning-based TTS model ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
 
