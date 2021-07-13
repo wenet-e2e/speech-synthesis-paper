@@ -129,6 +129,7 @@ List of papers not just about speech synthesis 😀.
 - HiFi-GAN: [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/pdf/2010.05646.pdf) (NeurIPS 2020)
 - Parallel-WaveGAN (New): [Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators](https://arxiv.org/abs/2010.14151) (2020-10)
 - [Improved parallel WaveGAN vocoder with perceptually weighted spectrogram loss](https://arxiv.org/abs/2101.07412) (SLT 2021)
+- Fre-GAN: [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297) (InterSpeech 2021)
 
 <h3 id="33">Others</h3>
 
