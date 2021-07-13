@@ -181,6 +181,7 @@ Repositories for collecting awesome speech paper:
 - MultiSpeaker Dataset: [AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines](https://arxiv.org/abs/2010.11567) (2020)
 - Life-long learning for multi-speaker TTS: [Continual Speaker Adaptation for Text-to-Speech Synthesis](https://arxiv.org/abs/2103.14512) (2021-03)
 - [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation](https://arxiv.org/pdf/2106.03153.pdf) (ICML 2021)
+- [Effective and Differentiated Use of Control Information for Multi-speaker Speech Synthesis](https://arxiv.org/pdf/2107.03065.pdf) (Interspeech 2021)
 
 
 <h2 id="5">Voice Conversion</h2>
