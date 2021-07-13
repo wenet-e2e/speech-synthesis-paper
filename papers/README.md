@@ -84,6 +84,8 @@ List of papers not just about speech synthesis 😀.
 - LightSpeech: [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) (ICASSP 2021)
 - Parallel Tacotron 2: [Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling](https://arxiv.org/pdf/2103.14574.pdf) (2021)
 - Grad-TTS: [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](https://arxiv.org/abs/2105.06337) (ICML 2021)
+- (flow based): [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103) (ICML 2021)
+- WaveGrad 2: [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/pdf/2106.09660.pdf) (Interspeech 2021)
 
 <h3 id="23">Alignment Study</h3>
 
@@ -102,6 +104,7 @@ List of papers not just about speech synthesis 😀.
 - [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/pdf/2008.04549.pdf) (Interspeech 2020)
 - Multilingual Speech Synthesis: [One Model, Many Languages: Meta-learning for Multilingual Text-to-Speech](https://arxiv.org/abs/2008.00768) (InterSpeech 2020)
 - [Low-resource expressive text-to-speech using data augmentation](https://arxiv.org/abs/2011.05707) (2020-11)
+- DenoiSpeech: [DenoiSpeech: Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547) (ICASSP 2021)
 
 
 <h2 id="3">Vocoder</h2>
@@ -140,6 +143,7 @@ List of papers not just about speech synthesis 😀.
 - Universal MelGAN: [Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains](https://arxiv.org/abs/2011.09631) (2020)
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
 - (Comparison of discriminator): [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
+- (Robust vocoder): [Towards Robust Neural Vocoding for Speech Generation: A Survey](https://arxiv.org/pdf/1912.02461.pdf) (2019)
 
 
 <h2 id="4">TTS towards Stylization</h2>
@@ -166,6 +170,9 @@ List of papers not just about speech synthesis 😀.
 - [Towards Multi-Scale Style Control for Expressive Speech Synthesis](https://arxiv.org/abs/2104.03521) (2021-04)
 - [Learning Robust Latent Representations for Controllable Speech Synthesis](https://arxiv.org/abs/2105.04458) (2021-05)
 - [Diverse and Controllable Speech Synthesis with GMM-Based Phone-Level Prosody Modelling](https://arxiv.org/abs/2105.13086) (2021-05)
+- [Improving Performance of Seen and Unseen Speech Style Transfer in End-to-end Neural TTS](https://arxiv.org/abs/2106.10003) (2021-06)
+- (Conversational Speech Synthesis): [Controllable Context-aware Conversational Speech Synthesis](https://arxiv.org/abs/2106.10828) (Interspeech 2021)
+- DeepRapper: [DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling](https://arxiv.org/pdf/2107.01875.pdf) (ACL 2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
@@ -187,6 +194,7 @@ List of papers not just about speech synthesis 😀.
 - (introduce PPG into voice conversion): [Phonetic posteriorgrams for many-to-one voice conversion without parallel data training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7552917) (2016)
 - [A Vocoder-free WaveNet Voice Conversion with Non-Parallel Data](https://arxiv.org/pdf/1902.03705.pdf) (2019)
 - TTS-Skins: [TTS Skins: Speaker Conversion via ASR](https://arxiv.org/pdf/1904.08983.pdf) (2019)
+- [Non-Parallel Sequence-to-Sequence Voice Conversion with Disentangled Linguistic and Speaker Representations](https://arxiv.org/abs/1906.10508) (IEEE/ACM TASLP 2019)
 - [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742) (InterSpeech 2019)
 - Cotatron (combine text information with voice conversion system): [Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data](https://arxiv.org/abs/2005.03295) (Interspeech 2020)
 - (TTS & ASR): [Voice Conversion by Cascading Automatic Speech Recognition and Text-to-Speech Synthesis with Prosody Transfer](https://arxiv.org/pdf/2009.01475.pdf) (InterSpeech 2020)
