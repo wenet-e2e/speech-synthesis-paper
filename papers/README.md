@@ -67,6 +67,7 @@ List of papers not just about speech synthesis 😀.
 - RobuTrans (towards robust): [RobuTrans: A Robust Transformer-Based Text-to-Speech Model](https://ojs.aaai.org//index.php/AAAI/article/view/6337) (AAAI 2020)
 - DeviceTTS: [DeviceTTS: A Small-Footprint, Fast, Stable Network for On-Device Text-to-Speech](https://arxiv.org/abs/2010.15311) (2020-10)
 - Wave-Tacotron: [Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis](https://arxiv.org/abs/2011.03568) (2020-11)
+- Streaming Acoustic Modeling: [Transformer-based Acoustic Modeling for Streaming Speech Synthesis](https://research.fb.com/wp-content/uploads/2021/06/Transformer-based-Acoustic-Modeling-for-Streaming-Speech-Synthesis.pdf) (2021-06)
 
 <h3 id="22">Non-Autoregressive Model</h3>
 
@@ -96,6 +97,7 @@ List of papers not just about speech synthesis 😀.
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
 - EfficientTTS: [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture](https://arxiv.org/abs/2012.03500) (2020-12)
+- VAENAR-TTS: [VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis](https://arxiv.org/pdf/2107.03298.pdf) (2021-07)
 
 <h3 id="24">Data Efficiency</h3>
 
