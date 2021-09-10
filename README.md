@@ -173,6 +173,7 @@ Repositories for collecting awesome speech paper:
 - [Improving Performance of Seen and Unseen Speech Style Transfer in End-to-end Neural TTS](https://arxiv.org/abs/2106.10003) (2021-06)
 - (Conversational Speech Synthesis): [Controllable Context-aware Conversational Speech Synthesis](https://arxiv.org/abs/2106.10828) (Interspeech 2021)
 - DeepRapper: [DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling](https://arxiv.org/pdf/2107.01875.pdf) (ACL 2021)
+- Referee: [Referee: Towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis](https://arxiv.org/abs/2109.03439) (2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
