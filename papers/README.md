@@ -177,6 +177,7 @@ List of papers not just about speech synthesis 😀.
 - (Conversational Speech Synthesis): [Controllable Context-aware Conversational Speech Synthesis](https://arxiv.org/abs/2106.10828) (Interspeech 2021)
 - DeepRapper: [DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling](https://arxiv.org/pdf/2107.01875.pdf) (ACL 2021)
 - Referee: [Referee: Towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis](https://arxiv.org/abs/2109.03439) (2021)
+- (Text-Based Insertion TTS): [Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration](https://arxiv.org/abs/2109.05426) (Interspeech 2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
@@ -263,6 +264,7 @@ List of papers not just about speech synthesis 😀.
 
 - TasNet: [TasNet: time-domain audio separation network for real-time, single-channel speech separation](https://arxiv.org/abs/1711.00541) (ICASSP 2018)
 - Conv-TasNet: [Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation](https://arxiv.org/abs/1809.07454)
+- (Music Source Separation): [Decoupling Magnitude and Phase Estimation with Deep ResUNet for Music Source Separation](https://arxiv.org/pdf/2109.05418.pdf) (2021-09)
 
 <h3 id="73">Speaker Verification</h3>
 
