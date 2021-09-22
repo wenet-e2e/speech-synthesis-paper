@@ -65,6 +65,7 @@ Repositories for collecting awesome speech paper:
 - DeviceTTS: [DeviceTTS: A Small-Footprint, Fast, Stable Network for On-Device Text-to-Speech](https://arxiv.org/abs/2010.15311) (2020-10)
 - Wave-Tacotron: [Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis](https://arxiv.org/abs/2011.03568) (2020-11)
 - Streaming Acoustic Modeling: [Transformer-based Acoustic Modeling for Streaming Speech Synthesis](https://research.fb.com/wp-content/uploads/2021/06/Transformer-based-Acoustic-Modeling-for-Streaming-Speech-Synthesis.pdf) (2021-06)
+- Apple TTS system: [On-device neural speech synthesis](https://arxiv.org/abs/2109.08710) (ASRU 2021)
 
 <h3 id="22">Non-Autoregressive Model</h3>
 
