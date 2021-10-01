@@ -28,7 +28,7 @@ List of papers not just about speech synthesis 😀.
     * [Speech Pretrained Model](#71)
     * [Speech Separation](#72)
     * [Speaker Verification](#73)
-    * [Speech Representation Learning](#74)
+    * [Audio Super Resolution](#74)
     * [Tools](#75)
 * [Natural Language Processing](#8)
     * [Sequence Modeling](#81)
