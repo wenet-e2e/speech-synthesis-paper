@@ -28,7 +28,7 @@ List of papers not just about speech synthesis 😀.
     * [Speech Pretrained Model](#71)
     * [Speech Separation](#72)
     * [Speaker Verification](#73)
-    * [Speech Representation Learning](#74)
+    * [Audio Super Resolution](#74)
     * [Tools](#75)
 * [Natural Language Processing](#8)
     * [Sequence Modeling](#81)
@@ -88,6 +88,7 @@ List of papers not just about speech synthesis 😀.
 - Grad-TTS: [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](https://arxiv.org/abs/2105.06337) (ICML 2021)
 - (flow based): [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103) (ICML 2021)
 - WaveGrad 2: [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/pdf/2106.09660.pdf) (Interspeech 2021)
+- PortaSpeech: [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) (NeurIPS 2021)
 
 <h3 id="23">Alignment Study</h3>
 
@@ -258,8 +259,9 @@ List of papers not just about speech synthesis 😀.
 <h3 id="71">Speech Pretrained Model</h3>
 
 - Audio-Word2Vec: [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](https://arxiv.org/pdf/1603.00982.pdf) (2016)
-- SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
+- [Unsupervised speech representation learning using WaveNet autoencoders](https://arxiv.org/abs/1901.08810) (2019)
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
+- SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - DDSP: [DDSP: Differentiable Digital Signal Processing](https://arxiv.org/abs/2001.04643) (ICLR 2020)
 
 <h3 id="72">Speech Separation</h3>
@@ -273,9 +275,9 @@ List of papers not just about speech synthesis 😀.
 - DeepSpeaker: [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf) (2017)
 - GE2E Loss: [Generalized End-to-End Loss for Speaker Verification](https://arxiv.org/abs/1710.10467) (ICASSP 2018)
 
-<h3 id="74">Speech Representation Learning</h3>
+<h3 id="74">Audio Super Resolution</h3>
 
-- [Unsupervised speech representation learning using WaveNet autoencoders](https://arxiv.org/abs/1901.08810) (2019)
+- [VoiceFixer: Toward General Speech Restoration With Neural Vocoder](https://arxiv.org/abs/2109.13731) (2021)
 
 <h3 id="75">Tools</h3>
 
