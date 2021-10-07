@@ -178,6 +178,7 @@ Repositories for collecting awesome speech paper:
 - Referee: [Referee: Towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis](https://arxiv.org/abs/2109.03439) (2021)
 - (Text-Based Insertion TTS): [Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration](https://arxiv.org/abs/2109.05426) (Interspeech 2021)
 - [On the Interplay Between Sparsity, Naturalness, Intelligibility, and Prosody in Speech Synthesis](https://arxiv.org/abs/2110.01147) (2021-10)
+- [Style Equalization: Unsupervised Learning of Controllable Generative Sequence Models](https://arxiv.org/pdf/2110.02891.pdf) (2021-10)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
