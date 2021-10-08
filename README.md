@@ -208,6 +208,7 @@ Repositories for collecting awesome speech paper:
 - FragmentVC (wav to vec): [FragmentVC: Any-to-Any Voice Conversion by End-to-End Extracting and Fusing Fine-Grained Voice Fragments With Attention](https://arxiv.org/abs/2010.14150) (2020)
 - [Towards Natural and Controllable Cross-Lingual Voice Conversion Based on Neural TTS Model and Phonetic Posteriorgram](https://arxiv.org/abs/2102.01991) (ICASSP 2021)
 - (TTS & ASR): [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) (2021-07)
+- [Cloning one's voice using very limited data in the wild](https://arxiv.org/pdf/2110.03347.pdf) (2021-10)
 
 <h3 id="52">VAE & Auto-Encoder Based</h3>
 
