@@ -242,6 +242,7 @@ Repositories for collecting awesome speech paper:
 - [Sequence-to-sequence Singing Voice Synthesis with Perceptual Entropy Loss](https://arxiv.org/abs/2010.12024) (2020)
 - Learn2Sing: [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) (2020-11)
 - MusicBERT: [MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training](https://arxiv.org/pdf/2106.05630.pdf) (ACL 2021)
+- SingGAN (Singing Voice Vocoder): [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468) (AAAI 2022)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
