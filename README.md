@@ -179,6 +179,7 @@ Repositories for collecting awesome speech paper:
 - (Text-Based Insertion TTS): [Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration](https://arxiv.org/abs/2109.05426) (Interspeech 2021)
 - [On the Interplay Between Sparsity, Naturalness, Intelligibility, and Prosody in Speech Synthesis](https://arxiv.org/abs/2110.01147) (2021-10)
 - [Style Equalization: Unsupervised Learning of Controllable Generative Sequence Models](https://arxiv.org/pdf/2110.02891.pdf) (2021-10)
+- TTS for dubbing: [Neural Dubber: Dubbing for Silent Videos According to Scripts](https://arxiv.org/abs/2110.08243) (NeurIPS 2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
