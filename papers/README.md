@@ -182,6 +182,7 @@ List of papers not just about speech synthesis 😀.
 - (Text-Based Insertion TTS): [Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration](https://arxiv.org/abs/2109.05426) (Interspeech 2021)
 - [On the Interplay Between Sparsity, Naturalness, Intelligibility, and Prosody in Speech Synthesis](https://arxiv.org/abs/2110.01147) (2021-10)
 - [Style Equalization: Unsupervised Learning of Controllable Generative Sequence Models](https://arxiv.org/pdf/2110.02891.pdf) (2021-10)
+- TTS for dubbing: [Neural Dubber: Dubbing for Silent Videos According to Scripts](https://arxiv.org/abs/2110.08243) (NeurIPS 2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
@@ -287,7 +288,7 @@ List of papers not just about speech synthesis 😀.
 - ESPnet: [ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/abs/1804.00015) (2018)
 - SpeechBrain: [speechbrain](https://github.com/speechbrain/speechbrain)
 - SpeechBrain Paper: [SpeechBrain: A General-Purpose Speech Toolkit](https://arxiv.org/abs/2106.04624)
-
+- ESPnet2-TTS: [ESPnet2-TTS: Extending the Edge of TTS Research](https://arxiv.org/abs/2110.07840) (2021-10)
 
 <h2 id="8">Natural Language Processing</h2>
 
