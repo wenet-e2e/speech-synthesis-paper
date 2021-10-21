@@ -119,6 +119,7 @@ Repositories for collecting awesome speech paper:
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) (Interspeech 2019)
 - GAN-TTS: [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf) (2019)
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
+- [Chunked Autoregressive GAN for Conditional Waveform Synthesis](https://arxiv.org/abs/2110.10139) (2021-10)
 
 <h3 id="32">Non-Autoregressive Model</h3>
 
