@@ -89,6 +89,7 @@ List of papers not just about speech synthesis 😀.
 - (flow based): [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103) (ICML 2021)
 - WaveGrad 2: [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/pdf/2106.09660.pdf) (Interspeech 2021)
 - PortaSpeech: [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) (NeurIPS 2021)
+- DelightfulTTS (To synthesize natural and high-quality speech from text): [DelightfulTTS: The Microsoft Speech Synthesis System for Blizzard Challenge 2021](https://arxiv.org/pdf/2110.12612.pdf) (Blizzard Challenge 2021)
 
 <h3 id="23">Alignment Study</h3>
 
