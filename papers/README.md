@@ -250,6 +250,7 @@ List of papers not just about speech synthesis 😀.
 - Learn2Sing: [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) (2020-11)
 - MusicBERT: [MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training](https://arxiv.org/pdf/2106.05630.pdf) (ACL 2021)
 - SingGAN (Singing Voice Vocoder): [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468) (AAAI 2022)
+- Rapping-singing voice synthesis: [Rapping-Singing Voice Synthesis based on Phoneme-level Prosody Control](https://arxiv.org/pdf/2111.09146.pdf) (SSW 11)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
