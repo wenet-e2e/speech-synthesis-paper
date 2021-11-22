@@ -173,6 +173,7 @@ List of papers not just about speech synthesis 😀.
 - (Global Emotion Style Control): [Controllable Emotion Transfer For End-to-End Speech Synthesis](https://arxiv.org/abs/2011.08679) (2020-11)
 - (Phone Level Style Control): [Fine-grained Emotion Strength Transfer, Control and Prediction for Emotional Speech Synthesis](https://arxiv.org/abs/2011.08477) (2020-11)
 - (Phone Level Prosody Modelling): [Mixture Density Network for Phone-Level Prosody Modelling in Speech Synthesis](https://arxiv.org/abs/2102.00851) (ICASSP 2021)
+- (Phone Level Prosody Modelling): [Prosodic Clustering for Phoneme-level Prosody Control in End-to-End Speech Synthesis](https://arxiv.org/abs/2111.10177) (ICASSP 2021)
 - PeriodNet: [PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components](https://arxiv.org/abs/2102.07786) (ICASSP 2021)
 - [Towards Multi-Scale Style Control for Expressive Speech Synthesis](https://arxiv.org/abs/2104.03521) (2021-04)
 - [Learning Robust Latent Representations for Controllable Speech Synthesis](https://arxiv.org/abs/2105.04458) (2021-05)
@@ -185,6 +186,7 @@ List of papers not just about speech synthesis 😀.
 - [On the Interplay Between Sparsity, Naturalness, Intelligibility, and Prosody in Speech Synthesis](https://arxiv.org/abs/2110.01147) (2021-10)
 - [Style Equalization: Unsupervised Learning of Controllable Generative Sequence Models](https://arxiv.org/pdf/2110.02891.pdf) (2021-10)
 - TTS for dubbing: [Neural Dubber: Dubbing for Silent Videos According to Scripts](https://arxiv.org/abs/2110.08243) (NeurIPS 2021)
+- [Word-Level Style Control for Expressive, Non-attentive Speech Synthesis](https://arxiv.org/abs/2111.10173) (SPECOM 2021)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
