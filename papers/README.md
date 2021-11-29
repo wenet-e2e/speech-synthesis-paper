@@ -367,3 +367,4 @@ List of papers not just about speech synthesis 😀.
 - (Forgetting learning): [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://arxiv.org/abs/1812.05159) (ICLR 2019)
 - ScaNN (search accelerating): [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
 - (memory management): [Efficient Memory Management for Deep Neural Net Inference](https://arxiv.org/abs/2001.03288) (2020)
+- Computational Arts: [When Creators Meet the Metaverse: A Survey on Computational Arts](https://arxiv.org/pdf/2111.13486.pdf) (2021-11)
