@@ -252,6 +252,7 @@ Repositories for collecting awesome speech paper:
 - MusicBERT: [MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training](https://arxiv.org/pdf/2106.05630.pdf) (ACL 2021)
 - SingGAN (Singing Voice Vocoder): [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468) (AAAI 2022)
 - Background music generation: [Video Background Music Generation with Controllable Music Transformer](https://arxiv.org/abs/2111.08380) (ACM Multimedia 2021)
+- Multi-Singer (Singing Voice Vocoder): [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358.pdf) (ACM Multimedia 2021)
 - Rapping-singing voice synthesis: [Rapping-Singing Voice Synthesis based on Phoneme-level Prosody Control](https://arxiv.org/pdf/2111.09146.pdf) (SSW 11)
 
 <h3 id="62">Singing Voice Conversion</h3>
