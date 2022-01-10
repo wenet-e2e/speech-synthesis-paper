@@ -370,3 +370,4 @@ List of papers not just about speech synthesis 😀.
 - ScaNN (search accelerating): [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
 - (memory management): [Efficient Memory Management for Deep Neural Net Inference](https://arxiv.org/abs/2001.03288) (2020)
 - Computational Arts: [When Creators Meet the Metaverse: A Survey on Computational Arts](https://arxiv.org/pdf/2111.13486.pdf) (2021-11)
+- Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
