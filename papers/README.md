@@ -22,7 +22,7 @@ List of papers not just about speech synthesis 😀.
     * [VAE & Auto-Encoder Based](#52)
     * [GAN Based](#53)
 * [Singing](#6)
-    * [Singing Synthesis](#61)
+    * [Singing Voice Synthesis](#61)
     * [Singing Voice Conversion](#62)
 * [Speech Processing Related](#7)
     * [Speech Pretrained Model](#71)
@@ -242,7 +242,7 @@ List of papers not just about speech synthesis 😀.
 
 <h2 id="6">Singing</h2>
 
-<h3 id="61">Singing Synthesis</h3>
+<h3 id="61">Singing Voice Synthesis</h3>
 
 - XiaoIce Band: [XiaoIce Band: A Melody and Arrangement Generation Framework for Pop Music](https://www.kdd.org/kdd2018/accepted-papers/view/xiaoice-banda-melody-and-arrangement-generation-framework-for-pop-music) (KDD 2018)
 - Mellotron: [Mellotron: Multispeaker expressive voice synthesis by conditioning on rhythm, pitch and global style tokens](https://arxiv.org/abs/1910.11997) (2019)
@@ -257,6 +257,7 @@ List of papers not just about speech synthesis 😀.
 - Background music generation: [Video Background Music Generation with Controllable Music Transformer](https://arxiv.org/abs/2111.08380) (ACM Multimedia 2021)
 - Multi-Singer (Singing Voice Vocoder): [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358.pdf) (ACM Multimedia 2021)
 - Rapping-singing voice synthesis: [Rapping-Singing Voice Synthesis based on Phoneme-level Prosody Control](https://arxiv.org/pdf/2111.09146.pdf) (SSW 11)
+- VISinger (VIST for Singing Voice Synthesis): [VISinger: Variational Inference with Adversarial Learning for End-to-End Singing Voice Synthesis](https://arxiv.org/pdf/2110.08813.pdf) (2021-10)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
