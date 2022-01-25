@@ -186,6 +186,7 @@ Repositories for collecting awesome speech paper:
 - TTS for dubbing: [Neural Dubber: Dubbing for Silent Videos According to Scripts](https://arxiv.org/abs/2110.08243) (NeurIPS 2021)
 - [Word-Level Style Control for Expressive, Non-attentive Speech Synthesis](https://arxiv.org/abs/2111.10173) (SPECOM 2021)
 - MsEmoTTS: [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](https://arxiv.org/pdf/2201.06460.pdf) (2022-01)
+- [Disentangling Style and Speaker Attributes for TTS Style Transfer](https://arxiv.org/pdf/2201.09472.pdf) (2022-01)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
