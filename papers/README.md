@@ -203,6 +203,7 @@ List of papers not just about speech synthesis 😀.
 - Life-long learning for multi-speaker TTS: [Continual Speaker Adaptation for Text-to-Speech Synthesis](https://arxiv.org/abs/2103.14512) (2021-03)
 - [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation](https://arxiv.org/pdf/2106.03153.pdf) (ICML 2021)
 - [Effective and Differentiated Use of Control Information for Multi-speaker Speech Synthesis](https://arxiv.org/pdf/2107.03065.pdf) (Interspeech 2021)
+- [Speaker Generation](https://arxiv.org/abs/2111.05095) (2021-11)
 - Meta-Voice: [Meta-Voice: Fast few-shot style transfer for expressive voice cloning using meta learning](https://arxiv.org/abs/2111.07218) (2021-11)
 
 
