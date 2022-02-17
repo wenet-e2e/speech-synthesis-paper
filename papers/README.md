@@ -190,6 +190,8 @@ List of papers not just about speech synthesis 😀.
 - [Word-Level Style Control for Expressive, Non-attentive Speech Synthesis](https://arxiv.org/abs/2111.10173) (SPECOM 2021)
 - MsEmoTTS: [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](https://arxiv.org/pdf/2201.06460.pdf) (2022-01)
 - [Disentangling Style and Speaker Attributes for TTS Style Transfer](https://arxiv.org/pdf/2201.09472.pdf) (2022-01)
+- Word-level prosody modeling: [Unsupervised word-level prosody tagging for controllable speech synthesis](https://arxiv.org/pdf/2202.07200.pdf) (ICASSP 2022)
+- ProsoSpeech: [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://arxiv.org/abs/2202.07816) (ICASSP 2022)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
