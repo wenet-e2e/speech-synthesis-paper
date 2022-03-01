@@ -108,6 +108,7 @@ Repositories for collecting awesome speech paper:
 - Multilingual Speech Synthesis: [One Model, Many Languages: Meta-learning for Multilingual Text-to-Speech](https://arxiv.org/abs/2008.00768) (Interspeech 2020)
 - [Low-resource expressive text-to-speech using data augmentation](https://arxiv.org/abs/2011.05707) (2020-11)
 - DenoiSpeech: [DenoiSpeech: Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547) (ICASSP 2021)
+- [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/pdf/2202.13066.pdf) (ACL 2022)
 
 
 <h2 id="3">Vocoder</h2>
