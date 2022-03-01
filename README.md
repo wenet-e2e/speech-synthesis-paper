@@ -265,6 +265,7 @@ Repositories for collecting awesome speech paper:
 - Rapping-singing voice synthesis: [Rapping-Singing Voice Synthesis based on Phoneme-level Prosody Control](https://arxiv.org/pdf/2111.09146.pdf) (SSW 11)
 - VISinger (VIST for Singing Voice Synthesis): [VISinger: Variational Inference with Adversarial Learning for End-to-End Singing Voice Synthesis](https://arxiv.org/pdf/2110.08813.pdf) (2021-10)
 - Opencpop: [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/pdf/2201.07429.pdf) (2022-01)
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/pdf/2202.13277.pdf) (ACL 2022)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
