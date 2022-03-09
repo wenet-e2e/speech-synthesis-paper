@@ -143,6 +143,7 @@ List of papers not just about speech synthesis 😀.
 - StyleMelGAN: [StyleMelGAN: An Efficient High-Fidelity Adversarial Vocoder with Temporal Adaptive Normalization](https://arxiv.org/abs/2011.01557) (ICASSP 2021)
 - [Improved parallel WaveGAN vocoder with perceptually weighted spectrogram loss](https://arxiv.org/abs/2101.07412) (SLT 2021)
 - Fre-GAN: [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297) (Interspeech 2021)
+- iSTFTNet: [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform](https://arxiv.org/abs/2203.02395) (ICASSP 2022)
 
 <h3 id="33">Others</h3>
 
