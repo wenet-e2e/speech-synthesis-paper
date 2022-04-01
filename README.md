@@ -88,6 +88,7 @@ Repositories for collecting awesome speech paper:
 - PortaSpeech: [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) (NeurIPS 2021)
 - DelightfulTTS (To synthesize natural and high-quality speech from text): [DelightfulTTS: The Microsoft Speech Synthesis System for Blizzard Challenge 2021](https://arxiv.org/pdf/2110.12612.pdf) (Blizzard Challenge 2021)
 - DiffGAN-TTS: [DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs](https://arxiv.org/abs/2201.11972) (2022-01)
+- WavThruVec: [WavThruVec: Latent speech representation as intermediate features for neural speech synthesis](https://arxiv.org/pdf/2203.16930.pdf) (2022-03)
 
 <h3 id="23">Alignment Study</h3>
 
