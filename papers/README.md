@@ -129,6 +129,7 @@ List of papers not just about speech synthesis 😀.
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 - [Chunked Autoregressive GAN for Conditional Waveform Synthesis](https://arxiv.org/abs/2110.10139) (2021-10)
 - Improved LPCNet: [Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet](https://arxiv.org/pdf/2202.11169.pdf) (ICASSP 2022)
+- Bunched LPCNet2: [Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge](https://arxiv.org/pdf/2203.14416.pdf) (2022-03)
 
 <h3 id="32">Non-Autoregressive Model</h3>
 
