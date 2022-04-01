@@ -315,6 +315,8 @@ List of papers not just about speech synthesis 😀.
 - SpeechBrain: [speechbrain](https://github.com/speechbrain/speechbrain)
 - SpeechBrain Paper: [SpeechBrain: A General-Purpose Speech Toolkit](https://arxiv.org/abs/2106.04624)
 - ESPnet2-TTS: [ESPnet2-TTS: Extending the Edge of TTS Research](https://arxiv.org/abs/2110.07840) (2021-10)
+- WeNet 2.0: [WeNet 2.0: More Productive End-to-End Speech Recognition Toolkit](https://arxiv.org/pdf/2203.15455.pdf) (2022-03)
+
 
 <h2 id="8">Natural Language Processing</h2>
 
