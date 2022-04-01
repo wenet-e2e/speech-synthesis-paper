@@ -196,6 +196,7 @@ Repositories for collecting awesome speech paper:
 - Word-level prosody modeling: [Unsupervised word-level prosody tagging for controllable speech synthesis](https://arxiv.org/pdf/2202.07200.pdf) (ICASSP 2022)
 - ProsoSpeech: [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://arxiv.org/abs/2202.07816) (ICASSP 2022)
 - CampNet (speech editing):[CampNet: Context-Aware Mask Prediction for End-to-End Text-Based Speech Editing](https://arxiv.org/pdf/2202.09950.pdf) (2022-02)
+- vTTS (visual text): [vTTS: visual-text to speech](https://arxiv.org/pdf/2203.14725.pdf) (2022-03)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
