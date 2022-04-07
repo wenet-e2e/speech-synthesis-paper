@@ -115,6 +115,7 @@ List of papers not just about speech synthesis 😀.
 - DenoiSpeech: [DenoiSpeech: Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547) (ICASSP 2021)
 - [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/pdf/2202.13066.pdf) (ACL 2022)
 - [Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic Speech Recognition](https://arxiv.org/pdf/2203.15796.pdf) (2022-03)
+- [Simple and Effective Unsupervised Speech Synthesis](https://arxiv.org/pdf/2204.02524.pdf) (2022-04)
 
 
 <h2 id="3">Vocoder</h2>
