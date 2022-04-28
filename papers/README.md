@@ -298,6 +298,7 @@ List of papers not just about speech synthesis 😀.
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
 - SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - DDSP: [DDSP: Differentiable Digital Signal Processing](https://arxiv.org/abs/2001.04643) (ICLR 2020)
+- Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
 
 <h3 id="72">Speech Separation</h3>
 
@@ -392,5 +393,5 @@ List of papers not just about speech synthesis 😀.
 - (Forgetting learning): [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://arxiv.org/abs/1812.05159) (ICLR 2019)
 - ScaNN (search accelerating): [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396) (ICML 2020)
 - (memory management): [Efficient Memory Management for Deep Neural Net Inference](https://arxiv.org/abs/2001.03288) (2020)
+- Conformer: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100) (InterSpeech 2020)
 - Computational Arts: [When Creators Meet the Metaverse: A Survey on Computational Arts](https://arxiv.org/pdf/2111.13486.pdf) (2021-11)
-- Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
