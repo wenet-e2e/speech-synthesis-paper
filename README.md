@@ -160,6 +160,7 @@ Repositories for collecting awesome speech paper:
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
 - (Comparison of discriminator): [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
 - Vocoder Benchmark: [VocBench: A Neural Vocoder Benchmark for Speech Synthesis](https://arxiv.org/abs/2112.03099) (2021-12)
+- BigVGAN: [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://arxiv.org/abs/2206.04658) (2022-06)
 
 
 <h2 id="4">TTS towards Stylization</h2>
