@@ -146,8 +146,10 @@ Repositories for collecting awesome speech paper:
 - StyleMelGAN: [StyleMelGAN: An Efficient High-Fidelity Adversarial Vocoder with Temporal Adaptive Normalization](https://arxiv.org/abs/2011.01557) (ICASSP 2021)
 - [Improved parallel WaveGAN vocoder with perceptually weighted spectrogram loss](https://arxiv.org/abs/2101.07412) (SLT 2021)
 - Fre-GAN: [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297) (Interspeech 2021)
+- UnivNet: [A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation](https://arxiv.org/pdf/2106.07889.pdf) (2021-07)
 - iSTFTNet: [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform](https://arxiv.org/abs/2203.02395) (ICASSP 2022)
 - [Parallel Synthesis for Autoregressive Speech Generation](https://arxiv.org/pdf/2204.11806.pdf) (2022-04)
+- Avocodo: [Generative Adversarial Network forArtifact-free Vocoder](https://arxiv.org/pdf/2206.13404.pdf) (2022-07)
 
 <h3 id="33">Others</h3>
 
