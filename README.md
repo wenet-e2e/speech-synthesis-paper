@@ -207,6 +207,9 @@ Repositories for collecting awesome speech paper:
 - ProsoSpeech: [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://arxiv.org/abs/2202.07816) (ICASSP 2022)
 - CampNet (speech editing):[CampNet: Context-Aware Mask Prediction for End-to-End Text-Based Speech Editing](https://arxiv.org/pdf/2202.09950.pdf) (2022-02)
 - vTTS (visual text): [vTTS: visual-text to speech](https://arxiv.org/pdf/2203.14725.pdf) (2022-03)
+- CopyCat2: [CopyCat2: A Single Model for Multi-Speaker TTS and Many-to-Many Fine-Grained Prosody Transfer](https://arxiv.org/abs/2206.13443) (Interspeech 2022)
+- [Prosody Cloning in Zero-Shot Multispeaker Text-to-Speech](https://arxiv.org/abs/2206.12229) (Interspeech 2022)
+- [Expressive, Variable, and Controllable Duration Modelling in TTS](https://arxiv.org/abs/2206.14165) (Interspeech 2022)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
