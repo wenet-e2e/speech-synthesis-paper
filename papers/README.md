@@ -87,6 +87,7 @@ List of papers not just about speech synthesis 😀.
 - Parallel Tacotron 2: [Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling](https://arxiv.org/pdf/2103.14574.pdf) (2021)
 - Grad-TTS: [Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech](https://arxiv.org/abs/2105.06337) (ICML 2021)
 - VITS (flow based): [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103) (ICML 2021)
+- RAD-TTS: [RAD-TTS: Parallel Flow-Based TTS with Robust Alignment Learning and Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (ICML 2021 Workshop)
 - WaveGrad 2: [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/pdf/2106.09660.pdf) (Interspeech 2021)
 - PortaSpeech: [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) (NeurIPS 2021)
 - DelightfulTTS (To synthesize natural and high-quality speech from text): [DelightfulTTS: The Microsoft Speech Synthesis System for Blizzard Challenge 2021](https://arxiv.org/pdf/2110.12612.pdf) (Blizzard Challenge 2021)
@@ -151,6 +152,7 @@ List of papers not just about speech synthesis 😀.
 - StyleMelGAN: [StyleMelGAN: An Efficient High-Fidelity Adversarial Vocoder with Temporal Adaptive Normalization](https://arxiv.org/abs/2011.01557) (ICASSP 2021)
 - [Improved parallel WaveGAN vocoder with perceptually weighted spectrogram loss](https://arxiv.org/abs/2101.07412) (SLT 2021)
 - Fre-GAN: [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297) (Interspeech 2021)
+- UnivNet: [A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation](https://arxiv.org/pdf/2106.07889.pdf) (2021-07)
 - iSTFTNet: [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform](https://arxiv.org/abs/2203.02395) (ICASSP 2022)
 - [Parallel Synthesis for Autoregressive Speech Generation](https://arxiv.org/pdf/2204.11806.pdf) (2022-04)
 - Avocodo: [Avocodo: Generative Adversarial Network for Artifact-free Vocoder](https://arxiv.org/pdf/2206.13404.pdf) (2022-06)
@@ -166,6 +168,7 @@ List of papers not just about speech synthesis 😀.
 - Universal Vocoder Based on Parallel WaveNet: [Universal Neural Vocoding with Parallel WaveNet](https://arxiv.org/abs/2102.01106) (ICASSP 2021)
 - (Comparison of discriminator): [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](https://arxiv.org/abs/2103.05236) (2021-03)
 - Vocoder Benchmark: [VocBench: A Neural Vocoder Benchmark for Speech Synthesis](https://arxiv.org/abs/2112.03099) (2021-12)
+- BigVGAN (Universal vocoder): [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://arxiv.org/abs/2206.04658) (2022-06)
 
 
 <h2 id="4">TTS towards Stylization</h2>
@@ -210,6 +213,9 @@ List of papers not just about speech synthesis 😀.
 - ProsoSpeech: [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://arxiv.org/abs/2202.07816) (ICASSP 2022)
 - CampNet (speech editing):[CampNet: Context-Aware Mask Prediction for End-to-End Text-Based Speech Editing](https://arxiv.org/pdf/2202.09950.pdf) (2022-02)
 - vTTS (visual text): [vTTS: visual-text to speech](https://arxiv.org/pdf/2203.14725.pdf) (2022-03)
+- CopyCat2: [CopyCat2: A Single Model for Multi-Speaker TTS and Many-to-Many Fine-Grained Prosody Transfer](https://arxiv.org/abs/2206.13443) (Interspeech 2022)
+- [Prosody Cloning in Zero-Shot Multispeaker Text-to-Speech](https://arxiv.org/abs/2206.12229) (Interspeech 2022)
+- [Expressive, Variable, and Controllable Duration Modelling in TTS](https://arxiv.org/abs/2206.14165) (Interspeech 2022)
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
