@@ -353,6 +353,7 @@ List of papers not just about speech synthesis 😀.
 - BERT: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (NAACL 2019)
 - XLNET: [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (NeurIPS 2019)
 - ALBERT: [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR 2020)
+- [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) (2022-07)
 
 <h3 id="83">Non-autoregressive Translation Model</h3>
 
