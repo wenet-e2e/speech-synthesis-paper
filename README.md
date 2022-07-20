@@ -91,6 +91,7 @@ Repositories for collecting awesome speech paper:
 - DiffGAN-TTS: [DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs](https://arxiv.org/abs/2201.11972) (2022-01)
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis](https://arxiv.org/abs/2203.13508) (ICLR 2022)
 - WavThruVec: [WavThruVec: Latent speech representation as intermediate features for neural speech synthesis](https://arxiv.org/pdf/2203.16930.pdf) (2022-03)
+- FastDiff: [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) (IJCAI 2022)
 - NaturalSpeech: [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality](https://arxiv.org/abs/2205.04421) (2022-05)
 - DelightfulTTS 2: [DelightfulTTS 2: End-to-End Speech Synthesis with Adversarial Vector-Quantized Auto-Encoders](https://arxiv.org/pdf/2207.04646.pdf) (Interspeech 2022)
 - CLONE: [Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech](https://arxiv.org/abs/2207.06088) (2022-07)
