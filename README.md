@@ -90,6 +90,7 @@ Repositories for collecting awesome speech paper:
 - DelightfulTTS (To synthesize natural and high-quality speech from text): [DelightfulTTS: The Microsoft Speech Synthesis System for Blizzard Challenge 2021](https://arxiv.org/pdf/2110.12612.pdf) (Blizzard Challenge 2021)
 - DiffGAN-TTS: [DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs](https://arxiv.org/abs/2201.11972) (2022-01)
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis](https://arxiv.org/abs/2203.13508) (ICLR 2022)
+- JETS: [JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech](https://arxiv.org/abs/2203.16852) (Interspeech 2022)
 - WavThruVec: [WavThruVec: Latent speech representation as intermediate features for neural speech synthesis](https://arxiv.org/pdf/2203.16930.pdf) (2022-03)
 - FastDiff: [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) (IJCAI 2022)
 - NaturalSpeech: [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality](https://arxiv.org/abs/2205.04421) (2022-05)
