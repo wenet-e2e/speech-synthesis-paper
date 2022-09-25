@@ -119,6 +119,8 @@ Repositories for collecting awesome speech paper:
 - [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/pdf/2202.13066.pdf) (ACL 2022)
 - [Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic Speech Recognition](https://arxiv.org/pdf/2203.15796.pdf) (2022-03)
 - [Simple and Effective Unsupervised Speech Synthesis](https://arxiv.org/pdf/2204.02524.pdf) (2022-04)
+- [A Multi-Stage Multi-Codebook VQ-VAE Approach to High-Performance Neural TTS](https://arxiv.org/pdf/2209.10887.pdf) (Interspeech 2022)
+- EPIC TTS Models (research on pruning): [EPIC TTS Models: Empirical Pruning Investigations Characterizing Text-To-Speech Models](https://arxiv.org/pdf/2209.10890.pdf) (Interspeech 2022)
 
 
 <h2 id="3">Vocoder</h2>
