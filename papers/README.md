@@ -314,7 +314,10 @@ List of papers not just about speech synthesis 😀.
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
 - SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - DDSP: [DDSP: Differentiable Digital Signal Processing](https://arxiv.org/abs/2001.04643) (ICLR 2020)
+- NANSY: [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) (NeurIPS 2021)
 - Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
+- AudioLM: [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) (2022-09)
+- AudioGen: [AudioGen: Textually Guided Audio Generation](https://arxiv.org/pdf/2209.15352.pdf) (2022-09)
 
 <h3 id="72">Speech Separation</h3>
 
