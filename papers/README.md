@@ -319,6 +319,8 @@ List of papers not just about speech synthesis 😀.
 - Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
 - AudioLM: [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) (2022-09)
 - AudioGen: [AudioGen: Textually Guided Audio Generation](https://arxiv.org/pdf/2209.15352.pdf) (2022-09)
+- NANSY++: [NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis](https://arxiv.org/abs/2211.09407) (2022-11)
+- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
 
 <h3 id="72">Speech Separation</h3>
 
