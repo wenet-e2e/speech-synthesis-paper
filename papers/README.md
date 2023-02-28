@@ -17,6 +17,7 @@ List of papers not just about speech synthesis 😀.
 * [TTS towards Stylization](#4)
     * [Expressive TTS](#41)
     * [MultiSpeaker TTS](#42)
+    * [New Perspective on TTS](#43)
 * [Voice Conversion](#5)
     * [ASR & TTS Based](#51)
     * [VAE & Auto-Encoder Based](#52)
@@ -238,6 +239,13 @@ List of papers not just about speech synthesis 😀.
 - [Speaker Generation](https://arxiv.org/abs/2111.05095) (2021-11)
 - Meta-Voice: [Meta-Voice: Fast few-shot style transfer for expressive voice cloning using meta learning](https://arxiv.org/abs/2111.07218) (2021-11)
 
+<h3 id="43">New Perspective on TTS</h3>
+
+- PromptTTS: [PromptTTS: Controllable Text-to-Speech with Text Descriptions](https://arxiv.org/abs/2211.12171) (2022-11)
+- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
+- InstructTTS: [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662) (2023-01)
+- Spear-TTS: [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) (2023-02)
+
 
 <h2 id="5">Voice Conversion</h2>
 
@@ -316,12 +324,13 @@ List of papers not just about speech synthesis 😀.
 - [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932) (2019)
 - SpeechBERT: [SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559) (2019)
 - DDSP: [DDSP: Differentiable Digital Signal Processing](https://arxiv.org/abs/2001.04643) (ICLR 2020)
+- SoundStream: [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) (2021-07)
 - NANSY: [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) (NeurIPS 2021)
 - Study of audio representations: [Audio representations for deep learning in sound synthesis: A review](https://arxiv.org/abs/2201.02490) (2022-01)
+- MuLan (Music Text Embedding): [MuLan: A Joint Embedding of Music Audio and Natural Language](https://arxiv.org/abs/2208.12415) (2022-08)
 - AudioLM: [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) (2022-09)
 - AudioGen: [AudioGen: Textually Guided Audio Generation](https://arxiv.org/pdf/2209.15352.pdf) (2022-09)
 - NANSY++: [NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis](https://arxiv.org/abs/2211.09407) (2022-11)
-- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
 
 <h3 id="72">Speech Separation</h3>
 
