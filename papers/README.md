@@ -110,6 +110,7 @@ List of papers not just about speech synthesis 😀.
 - [Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling](https://arxiv.org/pdf/2010.04301v1.pdf) (under review ICLR 2021)
 - EfficientTTS: [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture](https://arxiv.org/abs/2012.03500) (2020-12)
 - VAENAR-TTS: [VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis](https://arxiv.org/pdf/2107.03298.pdf) (2021-07)
+- [One TTS Alignment To Rule Them All](https://arxiv.org/abs/2108.10447) (2021-08)
 
 <h3 id="24">Data Efficiency</h3>
 
