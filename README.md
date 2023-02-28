@@ -30,6 +30,7 @@ Repositories for collecting awesome speech paper:
 * [TTS towards Stylization](#4)
     * [Expressive TTS](#41)
     * [MultiSpeaker TTS](#42)
+    * [New Perspective on TTS](#43)
 * [Voice Conversion](#5)
     * [ASR & TTS Based](#51)
     * [VAE & Auto-Encoder Based](#52)
@@ -234,6 +235,13 @@ Repositories for collecting awesome speech paper:
 - [Effective and Differentiated Use of Control Information for Multi-speaker Speech Synthesis](https://arxiv.org/pdf/2107.03065.pdf) (Interspeech 2021)
 - [Speaker Generation](https://arxiv.org/abs/2111.05095) (2021-11)
 - Meta-Voice: [Meta-Voice: Fast few-shot style transfer for expressive voice cloning using meta learning](https://arxiv.org/abs/2111.07218) (2021-11)
+
+<h3 id="43">New Perspective on TTS</h3>
+
+- PromptTTS: [PromptTTS: Controllable Text-to-Speech with Text Descriptions](https://arxiv.org/abs/2211.12171) (2022-11)
+- VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
+- InstructTTS: [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662) (2023-01)
+- Spear-TTS: [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) (2023-02)
 
 
 <h2 id="5">Voice Conversion</h2>
