@@ -304,6 +304,8 @@ List of papers not just about speech synthesis 😀.
 - Opencpop: [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/pdf/2201.07429.pdf) (2022-01)
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/pdf/2202.13277.pdf) (ACL 2022)
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/pdf/2203.16408.pdf) (2022-03)
+- MusicLM: [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) (2023-01)
+- SingSong: [SingSong: Generating musical accompaniments from singing](https://arxiv.org/abs/2301.12662) (2023-01)
 
 <h3 id="62">Singing Voice Conversion</h3>
 
