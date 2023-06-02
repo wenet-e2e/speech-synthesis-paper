@@ -97,6 +97,7 @@ Repositories for collecting awesome speech paper:
 - NaturalSpeech: [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality](https://arxiv.org/abs/2205.04421) (2022-05)
 - DelightfulTTS 2: [DelightfulTTS 2: End-to-End Speech Synthesis with Adversarial Vector-Quantized Auto-Encoders](https://arxiv.org/pdf/2207.04646.pdf) (Interspeech 2022)
 - CLONE: [Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech](https://arxiv.org/abs/2207.06088) (2022-07)
+- ZET-Speech: [ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models](https://arxiv.org/pdf/2305.13831.pdf) (Interspeech 2023)
 
 <h3 id="23">Alignment Study</h3>
 
