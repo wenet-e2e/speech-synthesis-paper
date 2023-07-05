@@ -97,6 +97,7 @@ Repositories for collecting awesome speech paper:
 - CLONE: [Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech](https://arxiv.org/abs/2207.06088) (2022-07)
 - MB-iSTFT-VITS: [Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform](https://arxiv.org/abs/2210.15975) (2022-10)
 - PITS: [Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS](https://arxiv.org/pdf/2302.12391.pdf) (2023-02)
+- ZET-Speech: [ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models](https://arxiv.org/pdf/2305.13831.pdf) (Interspeech 2023)
 
 <h3 id="23">Alignment Study</h3>
 
