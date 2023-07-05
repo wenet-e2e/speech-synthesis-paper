@@ -1,4 +1,5 @@
 # Speech Synthesis Paper
+
 List of speech synthesis papers (-> [more papers](./papers/README.md) <-). Welcome to recommend more awesome papers 😀.
 
 Repositories for collecting awesome speech paper:
@@ -12,33 +13,31 @@ Repositories for collecting awesome speech paper:
 - [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation) (from [dqqcasia](https://github.com/dqqcasia))
 - [A Survey on Neural Speech Synthesis](https://github.com/tts-tutorial/survey) (from [tts-tutorial](https://github.com/tts-tutorial))
 
-*What is the meaning of '<span class="star" style="color: red">&#x2605;</span>'? I add '<span class="star" style="color: red">&#x2605;</span>' to the papers which number of citations is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of Deep-Learning-based TTS model ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
-
+*What is the meaning of '`<span class="star" style="color: red">`&#x2605;'? I add '`<span class="star" style="color: red">`&#x2605;' to the papers which number of citations is over 50 (only in `Acoustic Model`, `Vocoder` and `TTS towards Stylization`). Beginner can read these paper first to get basic knowledge of Deep-Learning-based TTS model ([#1](https://github.com/xcmyz/speech-synthesis-paper/issues/1#issue-679044612)).*
 
 <h2>Content</h2>
 
 * [TTS Frontend](#1)
 * [Acoustic Model](#2)
-    * [Autoregressive Model](#21)
-    * [Non-Autoregressive Model](#22)
-    * [Alignment Study](#23)
-    * [Data Efficiency](#24)
+  * [Autoregressive Model](#21)
+  * [Non-Autoregressive Model](#22)
+  * [Alignment Study](#23)
+  * [Data Efficiency](#24)
 * [Vocoder](#3)
-    * [Autoregressive Model](#31)
-    * [Non-Autoregressive Model](#32)
-    * [Others](#33)
+  * [Autoregressive Model](#31)
+  * [Non-Autoregressive Model](#32)
+  * [Others](#33)
 * [TTS towards Stylization](#4)
-    * [Expressive TTS](#41)
-    * [MultiSpeaker TTS](#42)
-    * [New Perspective on TTS](#43)
+  * [Expressive TTS](#41)
+  * [MultiSpeaker TTS](#42)
+  * [New Perspective on TTS](#43)
 * [Voice Conversion](#5)
-    * [ASR & TTS Based](#51)
-    * [VAE & Auto-Encoder Based](#52)
-    * [GAN Based](#53)
+  * [ASR &amp; TTS Based](#51)
+  * [VAE &amp; Auto-Encoder Based](#52)
+  * [GAN Based](#53)
 * [Singing](#6)
-    * [Singing Voice Synthesis](#61)
-    * [Singing Voice Conversion](#62)
-
+  * [Singing Voice Synthesis](#61)
+  * [Singing Voice Conversion](#62)
 
 <h2 id="1">TTS Frontend</h2>
 
@@ -47,17 +46,16 @@ Repositories for collecting awesome speech paper:
 - [A hybrid text normalization system using multi-head self-attention for mandarin](https://arxiv.org/pdf/1911.04128.pdf) (ICASSP 2020)
 - [Unified Mandarin TTS Front-end Based on Distilled BERT Model](https://arxiv.org/pdf/2012.15404.pdf) (2021-01)
 
-
 <h2 id="2">Acoustic Model</h2>
 
 <h3 id="21">Autoregressive Model</h3>
 
-- Tacotron V1<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (Interspeech 2017)
-- Tacotron V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) (ICASSP 2018)
-- Deep Voice V1<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) (ICML 2017)
-- Deep Voice V2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947) (NeurIPS 2017)
-- Deep Voice V3<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
-- Transformer-TTS<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895) (AAAI 2019)
+- Tacotron V1 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (Interspeech 2017)
+- Tacotron V2 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884) (ICASSP 2018)
+- Deep Voice V1 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Deep Voice: Real-time Neural Text-to-Speech](https://arxiv.org/abs/1702.07825) (ICML 2017)
+- Deep Voice V2 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947) (NeurIPS 2017)
+- Deep Voice V3 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
+- Transformer-TTS `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Neural Speech Synthesis with Transformer Network](https://arxiv.org/abs/1809.08895) (AAAI 2019)
 - DurIAN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
 - Flowtron (flow based): [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957) (2020)
@@ -71,7 +69,7 @@ Repositories for collecting awesome speech paper:
 <h3 id="22">Non-Autoregressive Model</h3>
 
 - ParaNet: [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf) (ICML 2020)
-- FastSpeech<sup><span class="star" style="color: red">&#x2605;</span></sup>: [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
+- FastSpeech `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263) (NeurIPS 2019)
 - JDI-T: [JDI-T: Jointly trained Duration Informed Transformer for Text-To-Speech without Explicit Alignment](https://arxiv.org/abs/2005.07799) (2020)
 - EATS: [End-to-End Adversarial Text-to-Speech](https://arxiv.org/pdf/2006.03575.pdf) (2020)
 - FastSpeech 2: [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) (2020)
@@ -97,12 +95,14 @@ Repositories for collecting awesome speech paper:
 - NaturalSpeech: [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality](https://arxiv.org/abs/2205.04421) (2022-05)
 - DelightfulTTS 2: [DelightfulTTS 2: End-to-End Speech Synthesis with Adversarial Vector-Quantized Auto-Encoders](https://arxiv.org/pdf/2207.04646.pdf) (Interspeech 2022)
 - CLONE: [Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech](https://arxiv.org/abs/2207.06088) (2022-07)
+- MB-iSTFT-VITS: [Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform](https://arxiv.org/abs/2210.15975) (2022-10)
+- PITS: [Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS](https://arxiv.org/pdf/2302.12391.pdf) (2023-02)
 - ZET-Speech: [ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models](https://arxiv.org/pdf/2305.13831.pdf) (Interspeech 2023)
 
 <h3 id="23">Alignment Study</h3>
 
-- Monotonic Attention<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784) (ICML 2017)
-- Monotonic Chunkwise Attention<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Monotonic Chunkwise Attention](https://arxiv.org/abs/1712.05382) (ICLR 2018)
+- Monotonic Attention `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Online and Linear-Time Attention by Enforcing Monotonic Alignments](https://arxiv.org/abs/1704.00784) (ICML 2017)
+- Monotonic Chunkwise Attention `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Monotonic Chunkwise Attention](https://arxiv.org/abs/1712.05382) (ICLR 2018)
 - [Forward Attention in Sequence-to-sequence Acoustic Modelling for Speech Synthesis](https://arxiv.org/abs/1807.06736) (ICASSP 2018)
 - RNN-T for TTS: [Initial investigation of an encoder-decoder end-to-end TTS framework using marginalization of monotonic hard latent alignments](http://128.84.4.27/pdf/1908.11535) (2019)
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://arxiv.org/abs/1910.10288) (ICASSP 2020)
@@ -126,15 +126,14 @@ Repositories for collecting awesome speech paper:
 - [A Multi-Stage Multi-Codebook VQ-VAE Approach to High-Performance Neural TTS](https://arxiv.org/pdf/2209.10887.pdf) (Interspeech 2022)
 - EPIC TTS Models (research on pruning): [EPIC TTS Models: Empirical Pruning Investigations Characterizing Text-To-Speech Models](https://arxiv.org/pdf/2209.10890.pdf) (Interspeech 2022)
 
-
 <h2 id="3">Vocoder</h2>
 
 <h3 id="31">Autoregressive Model</h3>
 
-- WaveNet<sup><span class="star" style="color: red">&#x2605;</span></sup>: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) (2016)
-- WaveRNN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435) (ICML 2018)
-- WaveGAN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (ICLR 2019)
-- LPCNet<sup><span class="star" style="color: red">&#x2605;</span></sup>: [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://arxiv.org/abs/1810.11846) (ICASSP 2019)
+- WaveNet `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) (2016)
+- WaveRNN `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435) (ICML 2018)
+- WaveGAN `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Adversarial Audio Synthesis](https://arxiv.org/abs/1802.04208) (ICLR 2019)
+- LPCNet `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://arxiv.org/abs/1810.11846) (ICASSP 2019)
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) (Interspeech 2019)
 - GAN-TTS: [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf) (2019)
 - MultiBand-WaveRNN: [DurIAN: Duration Informed Attention Network For Multimodal Synthesis](https://arxiv.org/abs/1909.01700) (2019)
@@ -144,10 +143,10 @@ Repositories for collecting awesome speech paper:
 
 <h3 id="32">Non-Autoregressive Model</h3>
 
-- Parallel-WaveNet<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://arxiv.org/pdf/1711.10433.pdf) (2017)
-- WaveGlow<sup><span class="star" style="color: red">&#x2605;</span></sup>: [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002) (2018)
-- Parallel-WaveGAN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480) (2019)
-- MelGAN<sup><span class="star" style="color: red">&#x2605;</span></sup>: [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) (NeurIPS 2019)
+- Parallel-WaveNet `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://arxiv.org/pdf/1711.10433.pdf) (2017)
+- WaveGlow `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002) (2018)
+- Parallel-WaveGAN `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480) (2019)
+- MelGAN `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) (NeurIPS 2019)
 - MultiBand-MelGAN: [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/abs/2005.05106) (2020)
 - VocGAN: [VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network](https://arxiv.org/abs/2007.15256) (Interspeech 2020)
 - WaveGrad: [WaveGrad: Estimating Gradients for Waveform Generation](https://arxiv.org/pdf/2009.00713.pdf) (2020)
@@ -175,15 +174,14 @@ Repositories for collecting awesome speech paper:
 - Vocoder Benchmark: [VocBench: A Neural Vocoder Benchmark for Speech Synthesis](https://arxiv.org/abs/2112.03099) (2021-12)
 - BigVGAN (Universal vocoder): [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://arxiv.org/abs/2206.04658) (2022-06)
 
-
 <h2 id="4">TTS towards Stylization</h2>
 
 <h3 id="41">Expressive TTS</h3>
 
-- ReferenceEncoder-Tacotron<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron](https://arxiv.org/abs/1803.09047) (ICML 2018)
-- GST-Tacotron<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis](https://arxiv.org/abs/1803.09017) (ICML 2018)
+- ReferenceEncoder-Tacotron `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron](https://arxiv.org/abs/1803.09047) (ICML 2018)
+- GST-Tacotron `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis](https://arxiv.org/abs/1803.09017) (ICML 2018)
 - [Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis](https://arxiv.org/pdf/1808.01410.pdf) (2018)
-- GMVAE-Tacotron2<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Hierarchical Generative Modeling for Controllable Speech Synthesis](https://arxiv.org/abs/1810.07217) (ICLR 2019)
+- GMVAE-Tacotron2 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Hierarchical Generative Modeling for Controllable Speech Synthesis](https://arxiv.org/abs/1810.07217) (ICLR 2019)
 - BERT-TTS: [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307) (2019)
 - (Multi-style Decouple): [Multi-Reference Neural TTS Stylization with Adversarial Cycle Consistency](https://arxiv.org/abs/1910.11958) (2019)
 - (Multi-style Decouple): [Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis](https://arxiv.org/abs/1904.02373) (Interspeech 2019)
@@ -224,9 +222,9 @@ Repositories for collecting awesome speech paper:
 
 <h3 id="42">MultiSpeaker TTS</h3>
 
-- Meta-Learning for TTS<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Sample Efficient Adaptive Text-to-Speech](https://arxiv.org/abs/1809.10460) (ICLR 2019)
-- SV-Tacotron<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) (NeurIPS 2018)
-- Deep Voice V3<sup><span class="star" style="color: red">&#x2605;</span></sup>: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
+- Meta-Learning for TTS `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Sample Efficient Adaptive Text-to-Speech](https://arxiv.org/abs/1809.10460) (ICLR 2019)
+- SV-Tacotron `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) (NeurIPS 2018)
+- Deep Voice V3 `<sup><span class="star" style="color: red">`&#x2605;`</sup>`: [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654) (ICLR 2018)
 - [Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings](https://arxiv.org/abs/1910.10838) (ICASSP 2020)
 - MultiSpeech: [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://arxiv.org/abs/2006.04664) (2020)
 - SC-WaveRNN: [Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions](https://arxiv.org/pdf/2008.05289.pdf) (Interspeech 2020)
@@ -245,7 +243,6 @@ Repositories for collecting awesome speech paper:
 - Spear-TTS: [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) (2023-02)
 - FoundationTTS: [FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model](https://arxiv.org/pdf/2303.02939v2.pdf) (2023-03)
 
-
 <h2 id="5">Voice Conversion</h2>
 
 <h3 id="51">ASR & TTS Based</h3>
@@ -260,7 +257,7 @@ Repositories for collecting awesome speech paper:
 - FragmentVC (wav to vec): [FragmentVC: Any-to-Any Voice Conversion by End-to-End Extracting and Fusing Fine-Grained Voice Fragments With Attention](https://arxiv.org/abs/2010.14150) (2020)
 - [Towards Natural and Controllable Cross-Lingual Voice Conversion Based on Neural TTS Model and Phonetic Posteriorgram](https://arxiv.org/abs/2102.01991) (ICASSP 2021)
 - (TTS & ASR): [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) (2021-07)
-- [Cloning one's voice using very limited data in the wild](https://arxiv.org/pdf/2110.03347.pdf) (2021-10)
+- [Cloning one&#39;s voice using very limited data in the wild](https://arxiv.org/pdf/2110.03347.pdf) (2021-10)
 
 <h3 id="52">VAE & Auto-Encoder Based</h3>
 
@@ -280,7 +277,6 @@ Repositories for collecting awesome speech paper:
 - CycleGAN-VC V2: [CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion](https://arxiv.org/abs/1904.04631) (2019)
 - CycleGAN-VC V3: [CycleGAN-VC3: Examining and Improving CycleGAN-VCs for Mel-spectrogram Conversion](https://arxiv.org/abs/2010.11672) (2020)
 - MaskCycleGAN-VC: [MaskCycleGAN-VC: Learning Non-parallel Voice Conversion with Filling in Frames](https://arxiv.org/abs/2102.12841) (ICASSP 2021)
-
 
 <h2 id="6">Singing</h2>
 
