@@ -243,7 +243,11 @@ Repositories for collecting awesome speech paper:
 - VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (2023-01)
 - InstructTTS: [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662) (2023-01)
 - Spear-TTS: [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) (2023-02)
+- VALL-E X: [Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling](https://arxiv.org/abs/2303.03926) (2023-03)
 - FoundationTTS: [FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model](https://arxiv.org/pdf/2303.02939v2.pdf) (2023-03)
+- NaturalSpeech 2: [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://arxiv.org/abs/2304.09116) (2023-04)
+- Mega-TTS: [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](https://arxiv.org/abs/2306.03509) (2023-06)
+- Mega-TTS 2: [Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts](https://arxiv.org/abs/2307.07218) (2023-07)
 
 
 <h2 id="5">Voice Conversion</h2>
